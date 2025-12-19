@@ -1,0 +1,15 @@
+TARGETS = q1 q1-answer
+CFLAGS += -Wno-incompatible-pointer-types
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+%: %.o
+	$(CC) $(CFLAGS) -o $@
+
+all: $(TARGETS)
+
+clean:
+	rm -f *.o $(TARGETS)
+
+.PHONY: all clean
