@@ -1,0 +1,43 @@
+[    2.405051] usbcore: registered new interface driver r8152
+[    2.408886] usbcore: registered new interface driver cdc_ether
+[    2.431873] usb 3-4: New USB device found, idVendor=046d, idProduct=c548, bcdDevice= 5.01
+[    2.431877] usb 3-4: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    2.431879] usb 3-4: Product: USB Receiver
+[    2.431880] usb 3-4: Manufacturer: Logitech
+[    2.474627] usb 2-1.3.2: new SuperSpeed USB device number 5 using xhci_hcd
+[    2.487650] usb 2-1.3.2: New USB device found, idVendor=0fd9, idProduct=0094, bcdDevice= 1.82
+[    2.487654] usb 2-1.3.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[    2.487656] usb 2-1.3.2: Product: Elgato Facecam MK.2
+[    2.487657] usb 2-1.3.2: Manufacturer: Elgato
+[    2.487657] usb 2-1.3.2: SerialNumber: A6HTB34210UC21
+[    2.504492] usb 3-1.5: new high-speed USB device number 6 using xhci_hcd
+[    2.595513] usb 3-1.5: New USB device found, idVendor=413c, idProduct=b06e, bcdDevice= 1.01
+[    2.595517] usb 3-1.5: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[    2.595518] usb 3-1.5: Product: Dell dock
+[    2.658486] usb 3-3.2: new high-speed USB device number 7 using xhci_hcd
+[    2.735621] usb 3-3.2: New USB device found, idVendor=0403, idProduct=6011, bcdDevice= 8.00
+[    2.735625] usb 3-3.2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    2.735626] usb 3-3.2: Product: Quad RS232-HS
+[    2.735627] usb 3-3.2: Manufacturer: FTDI
+[    2.811497] usb 3-1.3.1: new full-speed USB device number 8 using xhci_hcd
+[    2.906262] usb 3-1.3.1: New USB device found, idVendor=046d, idProduct=c52b, bcdDevice=24.09
+[    2.906266] usb 3-1.3.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    2.906268] usb 3-1.3.1: Product: USB Receiver
+[    2.906269] usb 3-1.3.1: Manufacturer: Logitech
+[    3.015395] usb 3-6: new high-speed USB device number 9 using xhci_hcd
+[    3.158568] usb 3-6: New USB device found, idVendor=0c45, idProduct=6a17, bcdDevice=14.31
+[    3.158572] usb 3-6: New USB device strings: Mfr=2, Product=1, SerialNumber=0
+[    3.158573] usb 3-6: Product: Integrated_Webcam_FHD
+[    3.158574] usb 3-6: Manufacturer: CKFLF20S24544017D3A0
+[    3.223515] usb 3-1.3.5: new high-speed USB device number 10 using xhci_hcd
+[    3.326613] usb 3-1.3.5: New USB device found, idVendor=413c, idProduct=b06f, bcdDevice= 1.01
+[    3.326620] usb 3-1.3.5: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[    3.326621] usb 3-1.3.5: Product: Dell dock
+[    3.434495] usb 3-8: new high-speed USB device number 11 using xhci_hcd
+[    3.565176] usb 3-8: New USB device found, idVendor=0a5c, idProduct=5843, bcdDevice= 1.02
+[    3.565179] usb 3-8: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[    3.565181] usb 3-8: Product: 58200
+[    3.565182] usb 3-8: Manufacturer: Broadcom Corp
+[    3.565183] usb 3-8: SerialNumber: 0123456789ABCD
+[    3.682493] usb 3-10: new full-speed USB device number 12 using xhci_hcd
+
